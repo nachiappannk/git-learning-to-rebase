@@ -8,5 +8,6 @@ change 0
 7
 8
 bug fix in release
+another bug fix in release
 9
 10
